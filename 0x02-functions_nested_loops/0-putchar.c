@@ -2,6 +2,7 @@
 
 /**
 *Return:return 0
+*main – print _putchar
 */
 int main(void)
 {
