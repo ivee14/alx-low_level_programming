@@ -7,10 +7,8 @@
 
 int _isupper(int c)
 {
-char letter;
-for (letter = 'A'; letter <= 'Z'; letter++)
-{
-	if (c == letter)
-		return (1);
-}
+	if(letter > = 'A' && letter <= 'Z')
+		return(1);
+	else
+		return (0);
 }
